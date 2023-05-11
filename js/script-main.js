@@ -18,12 +18,3 @@ let swiperSliderText = new Swiper(sliderText, {
 		prevEl: '.swiper-button-prev',
 	},
 });
-
-// swiperSliderImg.on('slideChange', function () {
-// 	swiperSliderText.slideTo(swiperSliderImg.realIndex, 0);
-// });
-
-// swiperSliderText.on('slideChange', function () {
-// 	swiperSliderImg.slideTo(swiperSliderText.realIndex, 0);
-// });
-// slider
