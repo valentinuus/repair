@@ -5,7 +5,6 @@ const sliderText = document.querySelector('.text-slider__wrap');
 let swiperSliderImg = new Swiper(sliderImg, {
 	spaceBetween: 10,
 	loop: false,
-	effect: "fade",
 });
 
 let swiperSliderText = new Swiper(sliderText, {
